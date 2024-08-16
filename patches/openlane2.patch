@@ -8,8 +8,8 @@ index 9dcf415..711daea 100644
    ioplace-parser,
 -  rev ? "b16bda7e82721d10566ff7e2b68f1ff0be9f9e38",
 -  sha256 ? "sha256-+JGyX81Km2XidptA3k1Y5ZPwv+4Ed39LCsPfIHWd6ac=",
-+  rev ? "2c183d8511f834ddf9c898f0d7c13b0d9d2d0f8c",
-+  sha256 ? "sha256-SEjLl5BFl0XdUC2oPH95lRR5L4z8IGfyAi5lMgd+p2o=",
++  rev ? "2c0ecdf1a04540c53c2cbaf346a783d88a6dc345",
++  sha256 ? "sha256-XJDDN3DOFwfGZ5AirLLICSEQYEgWf73zLy7rCvdeJDs=",
  }: let
    pyenv = python3.withPackages (p:
      with p; [
